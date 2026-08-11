@@ -4,6 +4,10 @@
 
 A data analysis project completed using Microsoft Excel, covering multiple datasets and analysis tasks.
 
+## Dashboard Preview
+
+![Adidas Sales Performance Dashboard](adidas-sales-dashboard.png)
+
 ## Datasets
 
 - HR Employees
