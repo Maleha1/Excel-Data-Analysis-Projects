@@ -4,6 +4,9 @@
 
 A data analysis project completed using Microsoft Excel. The project focuses on cleaning, organizing, and analyzing sales data and presenting the results through a dashboard.
 
+## Dashboard Preview
+![Sales Analysis Dashboard](sales-analysis-dashboard.png)
+
 ## Data
 
 The project uses sales data containing information about:
